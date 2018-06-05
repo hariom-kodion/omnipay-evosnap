@@ -1,8 +1,15 @@
 {
     "name": "harry/omnipay-evosnap",
+    "authors": [
+        {
+            "name": "Harry Karwal",
+            "email": "hariom.kodion@gmail.com"
+        }
+    ],
     "description": "Evosnap Payment Module",
     "type": "library",
     "license": "MIT",
+    "homepage": "https://github.com/hariom-kodion/omnipay-evosnap.git",
     "repositories": [
         {
             "type": "vcs",
@@ -19,12 +26,6 @@
         }
     },
     "minimum-stability": "dev",
-    "authors": [
-        {
-            "name": "Harry Karwal",
-            "email": "hariom.kodion@gmail.com"
-        }
-    ],
     "require": {
 		"evo/cws-snap": "^2.1",
 		"evo-snap/hosted-payments": "1.1"
