@@ -6,19 +6,10 @@ namespace Composer\Autoload;
 
 class ComposerStaticInit44308766f247e1fce00c37f1e8e0c9be
 {
-    public static $files = array (
-        '7fb25ca99f8af8eb652634417b1d431c' => __DIR__ . '/..' . '/evo-snap/hosted-payments/src/Constants.php',
-        '3766cd18db361425ffd60e99fae06a9b' => __DIR__ . '/..' . '/evo/cws-snap/index.php',
-    );
-
     public static $prefixLengthsPsr4 = array (
         'O' => 
         array (
             'Omnipay\\EvoSnap\\' => 16,
-        ),
-        'E' => 
-        array (
-            'EvoSnap\\HostedPayments\\' => 23,
         ),
     );
 
@@ -26,10 +17,6 @@ class ComposerStaticInit44308766f247e1fce00c37f1e8e0c9be
         'Omnipay\\EvoSnap\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
-        ),
-        'EvoSnap\\HostedPayments\\' => 
-        array (
-            0 => __DIR__ . '/..' . '/evo-snap/hosted-payments/src',
         ),
     );
 

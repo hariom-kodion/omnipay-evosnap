@@ -28,7 +28,5 @@
         }
     },
     "require": {
-		"evo/cws-snap":"^2.1",
-		"evo-snap/hosted-payments":"1.1"
-	}
+    }
 }

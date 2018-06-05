@@ -7,5 +7,4 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'Omnipay\\EvoSnap\\' => array($baseDir . '/src'),
-    'EvoSnap\\HostedPayments\\' => array($vendorDir . '/evo-snap/hosted-payments/src'),
 );
