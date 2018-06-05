@@ -11,7 +11,7 @@
     "type":"library",
     "license":"MIT",
     "minimum-stability": "dev",
-	"prefer-stable": true,
+	"prefer-stable": "true",
     "homepage":"https://github.com/hariom-kodion/omnipay-evosnap.git",
     "repositories": [
         {
