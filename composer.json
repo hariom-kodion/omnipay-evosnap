@@ -6,6 +6,7 @@
             "email": "hariom.kodion@gmail.com"
         }
     ],
+    "version": "1.0.0",
     "description": "Evosnap Payment Module",
     "type": "library",
     "license": "MIT",
