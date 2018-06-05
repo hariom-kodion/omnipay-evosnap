@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "2c9126fe0cfb575007095d55aa76ace8",
+    "content-hash": "6c8ee92df1cbfd132a8392f01c8e4b07",
     "packages": [
         {
             "name": "evo-snap/hosted-payments",
@@ -82,7 +82,7 @@
     ],
     "packages-dev": [],
     "aliases": [],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
