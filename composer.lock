@@ -1,0 +1,91 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "7b9122b4d24c4be958eef3f37b47f946",
+    "packages": [
+        {
+            "name": "evo-snap/hosted-payments",
+            "version": "1.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/EVO-Snap/PHP-HostedPayments-lib.git",
+                "reference": "ac1948775326b07418b714dc2a61b8d99509ecfc"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/EVO-Snap/PHP-HostedPayments-lib/zipball/ac1948775326b07418b714dc2a61b8d99509ecfc",
+                "reference": "ac1948775326b07418b714dc2a61b8d99509ecfc",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.4.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "EvoSnap\\HostedPayments\\": "src/"
+                },
+                "files": [
+                    "src/Constants.php"
+                ]
+            },
+            "license": [
+                "proprietary"
+            ],
+            "description": "Hosted Payments library for the EVO Snap* Platform.",
+            "homepage": "https://evosnap.com",
+            "keywords": [
+                "composer",
+                "package",
+                "payments"
+            ],
+            "support": {
+                "email": "info@evosnap.com",
+                "docs": "http://docs.evosnap.com/hosted-payments-section/hosted-payments/",
+                "source": "https://github.com/EVO-Snap/PHP-HostedPayments-lib/tree/1.1",
+                "issues": "https://github.com/EVO-Snap/PHP-HostedPayments-lib/issues"
+            },
+            "time": "2017-10-18T23:12:07+00:00"
+        },
+        {
+            "name": "evo/cws-snap",
+            "version": "2.1.28",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/EVO-Snap/PHP-CWS-lib.git",
+                "reference": "94b1ebbb699d7efdeb47d7755872c3b352c8ac98"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/EVO-Snap/PHP-CWS-lib/zipball/94b1ebbb699d7efdeb47d7755872c3b352c8ac98",
+                "reference": "94b1ebbb699d7efdeb47d7755872c3b352c8ac98",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.5.0"
+            },
+            "type": "library",
+            "autoload": {
+                "files": [
+                    "index.php"
+                ]
+            },
+            "support": {
+                "source": "https://github.com/EVO-Snap/PHP-CWS-lib/tree/2.1.28",
+                "issues": "https://github.com/EVO-Snap/PHP-CWS-lib/issues"
+            },
+            "time": "2017-10-02T16:12:57+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

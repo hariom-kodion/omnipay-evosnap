@@ -1,0 +1,12 @@
+{
+	"name" : "evo/cws-snap",
+	"version" : "2.1.28",
+	"autoload" : {
+		"files" : [
+			"index.php"
+		]
+	},
+	"require" : {
+		"php" : ">=5.5.0"
+	}
+}
